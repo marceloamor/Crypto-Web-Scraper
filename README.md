@@ -1,5 +1,5 @@
 # Crypto-Web-Scraper
-Real time social media and database scraper for crypto tracking
+Real time social media and database scraper for crypto tracking 
 
 Web scraper built on Flask  
 Features include:  
