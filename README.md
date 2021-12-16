@@ -9,4 +9,3 @@ Features include:
   - Coin mentions from Twitter and Reddit  
     - % change in either ^  
     - sentiment analysis on both ^  
-  
