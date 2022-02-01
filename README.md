@@ -10,3 +10,5 @@ Features include:
     - % change in either ^  
     - sentiment analysis on both ^  
 
+Allow custom indicators????
+
